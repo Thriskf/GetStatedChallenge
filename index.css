@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+}
+
+
+.form-div {
+    width: 30em;
+    padding: 3em;
+
+}
+
+label {
+    color: black;
+}
+
+button {
+    border-width: 0px;
+    border-radius: 8px;
+    height: 2.2em;
+    margin-top: 1em;
+    width: 18em;
+    font-weight: bold;
+}
+
+.but-black {
+    color: white;
+    background-color: black;
+
+}
+
+.but-white {
+    color: black;
+    background-color: white;
+    border: solid grey 1px;
+    margin-bottom: 2em;
+
+}
+
+footer
+{
+    font-size: 15px;
+}
+
+.footer
+{
+    display: inline;
+    margin-top: 10em;
+}
+
+.login
+{
+    font-size: 14px;
+    padding-left: 2em;
+}
+
+.left
+{
+    text-align: left;
+
+}
+
+.right
+{
+    /* display: inline; */
+    text-align: right;
+}
